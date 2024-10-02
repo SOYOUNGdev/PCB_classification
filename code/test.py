@@ -33,7 +33,7 @@ IMAGE_SIZE = 64
 BATCH_SIZE = 64
 N_EPOCHS = 20
 
-# 이미지 전처리 및 증강
+# 이미지 전처리
 transform = transforms.Compose([
     transforms.Resize((IMAGE_SIZE, IMAGE_SIZE)),
     transforms.ToTensor(),
