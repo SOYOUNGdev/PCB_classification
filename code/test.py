@@ -212,3 +212,4 @@ for epoch in range(N_EPOCHS):
 # 테스트 데이터세트로 평가
 test_loss, test_accuracy = evaluate_model(model, test_loader, criterion)
 print(f'Test Loss: {test_loss:.4f}, Test Accuracy: {test_accuracy:.4f}')
+
