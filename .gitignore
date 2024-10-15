@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 model/
 
+=======
+>>>>>>> 5b241e9bc5d87c76703513cef7f6bd0a385ab7a1
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,python,jupyternotebooks
 
@@ -231,5 +234,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,jupyternotebooks
 /model
+=======
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,python,jupyternotebooks
+>>>>>>> 5b241e9bc5d87c76703513cef7f6bd0a385ab7a1
